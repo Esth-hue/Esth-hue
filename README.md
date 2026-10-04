@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Joseph Esther Favour 👋
 
-<!--
-**Esth-hue/Esth-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst | Turning data into insights that support better business decisions.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Data Analyst with hands-on experience in data cleaning, analysis, visualisation and reporting. I enjoy using data to
+identify trends, solve problems and support better decision-making.
+
+## Skills
+
+- Data Analysis
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualisation
+- Excel
+- SQL
+- Power BI
+- Python
+
+## Featured Projects
+
+### 📊 Superstore Sales Analysis
+Analysed sales and profitability trends to identify key business insights and opportunities.
+
+### 📈 Telco Customer Churn Analysis
+Analysed customer behaviour and churn patterns to identify factors associated with customer retention.
+
+### 🏥 HealthConnect Clinic 
+Analysed healthcare appointment data to identify factors associated with missed appointments and support data-driven recommendations.
+
+## Tools
+
+Excel | SQL | Power BI | Python
+
+## Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/esther-joseph-53974a232
